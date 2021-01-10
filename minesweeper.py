@@ -330,7 +330,8 @@ class MinesweeperApp:
                                 state='normal',
                                 disabledforeground='#000000')
         cell_button.pack(fill=tk.BOTH, expand=True)
-
+        
+        # NOTE FROM PROF. SMITH FOR CODING THE ADD CELL METHOD
         # Tkinter allows us to "bind" a function f (say) to an event such
         # as a mouse being clicked on this Button.  But that function
         # must take the event object as an argument (and some other keyword
