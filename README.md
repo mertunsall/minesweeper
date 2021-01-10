@@ -1,2 +1,2 @@
-# minesweeper
-A Minesweeper Game
+# MineSweeper
+A Minesweeper Game in Python
